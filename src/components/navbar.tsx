@@ -59,16 +59,13 @@ export function Navbar() {
         {/* Logo */}
         <a
           href="#"
-          className="group flex items-center gap-2 text-lg font-semibold tracking-tight text-slate-100 transition-colors hover:text-white"
+          className="group text-lg font-semibold tracking-tight text-slate-100 transition-colors hover:text-white"
           onClick={(e) => {
             e.preventDefault();
             window.scrollTo({ top: 0, behavior: "smooth" });
           }}
         >
-          <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-accent/10 font-mono text-sm font-bold text-accent transition-colors group-hover:bg-accent/20">
-            VC
-          </span>
-          <span className="hidden sm:inline">victor.dev</span>
+          victor.dev
         </a>
 
         {/* Desktop Navigation */}

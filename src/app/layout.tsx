@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Victor Cordeiro — Engenheiro de Software Backend",
   description:
-    "Engenheiro de Software Backend com 2+ anos de experiência construindo plataformas SaaS escaláveis, microsserviços e sistemas de automação. Especializado em Node.js, NestJS, TypeScript e AWS.",
+    "Engenheiro de Software Backend com 3+ anos de experiência construindo plataformas SaaS escaláveis, microsserviços e sistemas de automação. Especializado em Node.js, NestJS, TypeScript e AWS.",
   keywords: [
     "Victor Cordeiro",
     "Software Engineer",

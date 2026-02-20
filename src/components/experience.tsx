@@ -25,7 +25,7 @@ export function Experience() {
               <span className="gradient-text">impacto</span>
             </h2>
             <p className="max-w-2xl text-lg text-slate-400">
-              2+ anos transformando complexidade técnica em soluções que geram
+              3+ anos transformando complexidade técnica em soluções que geram
               resultados mensuráveis.
             </p>
           </div>

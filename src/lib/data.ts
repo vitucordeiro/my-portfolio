@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Victor Cordeiro",
   title: "Engenheiro de Software Backend",
   description:
-    "Engenheiro de Software Backend com 2+ anos de experiência construindo plataformas SaaS escaláveis, microsserviços e sistemas de automação que reduziram esforço operacional em até 80%.",
+    "Engenheiro de Software Backend com 3+ anos de experiência construindo plataformas SaaS escaláveis, microsserviços e sistemas de automação que reduziram esforço operacional em até 80%.",
   email: "victorcordeiro.devops@gmail.com",
   phone: "+55 (81) 9 9423-0214",
   location: "Recife, PE",
@@ -11,7 +11,7 @@ export const siteConfig = {
 };
 
 export const stats = [
-  { value: "2+", label: "Anos de experiência" },
+  { value: "3+", label: "Anos de experiência" },
   { value: "80%", label: "Redução operacional" },
   { value: "10K+", label: "Docs processados/mês" },
   { value: "99.5%", label: "Uptime de serviços" },

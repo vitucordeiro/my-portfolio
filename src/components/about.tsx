@@ -130,8 +130,7 @@ export function About() {
                 <span className="text-slate-200">
                   Análise e Desenvolvimento de Sistemas
                 </span>{" "}
-                na Wyden, com certificação{" "}
-                <span className="text-slate-200">CS50 de Harvard</span>.
+                na Wyden.
               </p>
               <div className="flex items-center gap-3 rounded-xl border border-slate-800 bg-surface/50 px-5 py-4">
                 <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-cyan-500/10">
